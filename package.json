@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@baseswapfi/sdk-core": "^1.2.1",
-    "@ethersproject/abi": "^5.0.12",
+    "@ethersproject/abi": "^5.8.0",
     "@ethersproject/solidity": "^5.0.9",
     "jsbi": "^3.1.4",
     "tiny-invariant": "^1.1.0",
